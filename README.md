@@ -24,9 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             5 hrs 48 mins   █████████████████████▓░░░   87.26 %
-C++                50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python             5 hrs 45 mins   █████████████████████████   100.00 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
